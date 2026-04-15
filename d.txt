@@ -1,1 +1,2 @@
 1. create d.txt
+2.change local repo
